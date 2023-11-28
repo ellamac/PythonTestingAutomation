@@ -12,3 +12,5 @@ Log in to GitHub and create a new public repository (you can delete or make it p
 
 6. Investigate how you can run your Action in GitHub.
 7. How do you collect the results of the exection?
+
+maybe done?
