@@ -1,7 +1,7 @@
 import unittest
 
 # code.py has the functions for add, multiply and power
-from code import add, multiply, power
+from sample_code import add, multiply, power
 
 
 class TestMathMethods(unittest.TestCase):
